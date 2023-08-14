@@ -1,4 +1,4 @@
-[200~class Hello
+class Hello
 {
 	Public static void main(String args[])
 	{
